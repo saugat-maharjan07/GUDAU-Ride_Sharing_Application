@@ -16,5 +16,3 @@ string readNonEmptyLine(const string &prompt) {
     }
     return value;
 }
-
-//
